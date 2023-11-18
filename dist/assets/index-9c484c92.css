@@ -1,0 +1,1 @@
+body{width:100%;height:100vh;overflow:hidden;margin:0;font-family:Arial,Verdana,Tahoma;padding:0}img.background-left,img.background-right,img.background{width:100%;height:100%;object-fit:cover;position:absolute;top:0;left:0}img.objects{width:100%;height:100%;object-fit:contain}
