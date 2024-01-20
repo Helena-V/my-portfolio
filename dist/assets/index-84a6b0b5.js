@@ -197,7 +197,7 @@ Error generating stack: `+o.message+`
     position: absolute;
     bottom: 0;
     right: 0;
-`,zw=({language:e,setContactInformationVisible:t,setStudiesVisible:n})=>S.jsx(Aw,{children:"Imagery produced by Stable Diffusion AI."}),Ul=Q.div` 
+`,zw=({language:e})=>S.jsx(Aw,{children:"Imagery produced by Stable Diffusion AI."}),Ul=Q.div` 
     background-color: #91DE72;
     padding: 3em;
     width: 15em;
