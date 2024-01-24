@@ -136,14 +136,15 @@ Error generating stack: `+o.message+`
     background-color: #0d85aa;
     margin: 0;
     border: none;
-    padding: 2em;
+    padding: 2em 2em 0em 2em;
     text-align: center;
     text-decoration: none;
     display: block;
     color: #000000;
     cursor: pointer;
 `,Ew=Q.img`
-    height: 3em;
+    height: 2.5em;
+    padding: 0em 0em 2em 0em;
     cursor: pointer;
 `,_w=({language:e})=>S.jsxs(kw,{children:[S.jsx(Od,{href:"https://github.com/Helena-V",target:"_blank",rel:"noopener noreferrer",children:S.jsx("img",{className:"objects",style:{margin:"0",padding:"0"},src:"./resources/github-mark.svg"})}),S.jsx(Od,{href:"mailto:hanna.r.vesa@gmail.com",children:S.jsx(Ew,{src:"./resources/mail.svg"})})]}),Cw=Q.div`
     display: inline-block;
